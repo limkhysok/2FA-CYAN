@@ -1,6 +1,4 @@
-# Updated README
-
-This is an updated README file that now includes image displays for the following images:
+# README TO USE
 
 ![Image 1](images/image1.png)
 
